@@ -1,4 +1,4 @@
-# gbclab6assignment1
+# lab6assignment1
 
 ## Links
 - [D2L](https://learn.georgebrown.ca)
